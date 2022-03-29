@@ -1,0 +1,39 @@
+## main links
+#main:
+  # - title: "Home"
+  #   url: /
+  # - title: "Tools"
+  #   url: /tools
+  # - title: "Tags"
+  #   url: /tags
+  # - title: "Video Databases"
+  #   url: /video-databases
+  # - title: "Guides"
+  #   url: /guides
+  # - title: "About"
+  #   url: /about
+  # - title: "Contact"
+  #   url: /contact
+
+- text: Mission
+  url: /index
+- text: People
+  url: /people
+- text: Activities
+  url: /activities
+- text: Publications
+  url: /publications
+- text: Resources
+  url: /resources
+- text: Meetings
+  url: /meetings
+- text: About
+  url: /about
+
+# https://stackoverflow.com/questions/25452429/excluding-page-from-jekyll-navigation-bar
+#  subitems:
+#    - text: First menu (sub)
+ #     url: /first-menu/first-menu-sub/
+ #     subitems:
+ #       - text: First menu (sub-sub)
+  #        url: /first-menu/first-menu-sub/first-menu-sub-sub/
