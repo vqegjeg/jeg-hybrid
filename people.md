@@ -11,9 +11,9 @@ The group is co-chaired by Marcus Barkowsky, Glenn Van Wallendael, and Enrico Ma
 
 Here is a non-exhaustive list of people, in alphabetical order, who contributed to various activities (since 2021):
 
-* Florence Agboma, Sky UK, London, UK.
+* Florence Agboma, [Sky](https://www.sky.com/), London, UK.
 
-* Ahmed Aldahdooh, IT Department,  [University College of Applied Sciences](https://en.ucas.edu.ps/), Gaza, Palestine
+* Ahmed Aldahdooh, IT Department,  [University College of Applied Sciences](https://en.ucas.edu.ps/), Gaza, Palestine.
 
 * Marcus Barkowsky, [University of Applied Sciences, Deggendorf Institute of Technology](http://www.dit.edu/), Deggendorf, Germany.
 
@@ -25,5 +25,5 @@ Here is a non-exhaustive list of people, in alphabetical order, who contributed 
 
 * Enrico Masala, [Politecnico di Torino Technical University](https://media.polito.it), Turin, Italy.
 
-* Glenn Van Wallendael, [Ghent University](https://www.ugent.be/en), Belgium.
+* Glenn Van Wallendael, [Ghent University](https://www.ugent.be/en), Ghent, Belgium.
 
