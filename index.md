@@ -7,11 +7,13 @@ title: Mission
 #permalink: /mission
 ---
 
-The group is an activity within the [Video Quality Experts Group (VQEG)](https://vqeg.org) that originated in 2009 in the context of the Joint Effort Group (JEG) with the name of JEG-Hybrid. The original aim was to develop an hybrid perceptual/bit-stream model. Over time, the activities changed to involve different areas of Video Quality Assessment (VQA), in particular tackling new research questions with hopefully long term impact on the video quality research community.
+The group is an activity within the [Video Quality Experts Group (VQEG)](https://vqeg.org) that originated in 2009 in the context of the Joint Effort Group (JEG) with the name of JEG-Hybrid. The original aim was to develop an hybrid perceptual/bit-stream model. Over time, the activities changed to involve different areas of Video Quality Assessment (VQA).
 
-Currently, the group is not pursuing activities with immediate commercial interest, such as trying to develop new metrics or tools readily available for VQA. Current activities are listed in more details in the [dedicated page]({{site.baseurl}}/activities). Join us [here](about) to know more.
+In particular, new research questions are being tackled, with hopefully long term impact on the video quality research community including, for instance, modeling single observers, modeling VQMs disagreement, promoting reproducible research in VQA, etc.  Currently, the group is not pursuing activities with immediate commercial interest, such as trying to develop new metrics or tools readily available for VQA. 
 
-More information about the history of JEG and JEG-Hybrid can be found on the old [JEG-Hybrid website]({{site.baseurl}}/old_jeg-hybrid).
+Current activities are listed in more details in the [dedicated page]({{site.baseurl}}/activities). Join us [here](about) to know more.
+
+More information about the history of JEG and JEG-Hybrid can also be found on the old [JEG-Hybrid website]({{site.baseurl}}/old_jeg-hybrid).
 
 All other resources are available via the navigation menu.
 
