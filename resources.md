@@ -20,6 +20,8 @@ Here is a non-exhaustive list of resources used by the group, made available to 
 
 List of software tools freely available for research purposes, developed in the context of the groups' activities or made available for the group:
 
+* [Simulation software]({{site.baseurl}}/software/IEEE_Access_source_code_paper_DOI_10.1109_ACCESS.2021.3127395.zip) for the paper ["On the Link Between Subjective Score Prediction and Disagreement of Video Quality Metrics" (IEEE Access, 2021)](http://dx.doi.org/10.1109/ACCESS.2021.3127395){:target=_blank}
+
 * [Reproducible research framework](https://github.com/ElsevierSoftwareX/SOFTX-D-17-00069){:target=_blank}  
   (accompanying the journal paper ["Reproducible research framework for objective video quality measures using a large-scale database approach"](http://dx.doi.org/10.1016/j.softx.2017.09.004) published (open access) in SoftwareX in 2018)
 
