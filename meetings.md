@@ -11,20 +11,14 @@ Conference calls are held online every 2 weeks. Duration about 1 hour, occasiona
 
 Meeting dates:
 
-* March 7, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* March 21, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* April 4, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* May 2, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* May 16, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* May 30, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* ...
-* Jul 11, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Jul 25, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Aug 8, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Aug 22, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Sep 5, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Sep 19, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Oct 3, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Oct 17, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Oct 31, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Nov 14, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Nov 28, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+
+([past meeting dates]({{site.baseurl}}/past_meetings))
 
 Schedule is adapted once in a while to facilitate participation by most of the attendees. Polls and modifications are sent to the reflector well ahead of time. Do not forget to join the reflector: [jeg@lyris.vqeg.org](mailto:jeg@lyris.vqeg.org)
 
