@@ -12,7 +12,12 @@ permalink: /publications
 
 List of scientific publications originating from activities conducted directly or in collaboration with this group:
 
-* **Mimicking individual media quality perception with neural network based artificial observers**,  
+* **Regularized Maximum Likelihood Estimation of the Subjective Quality from Noisy Individual Ratings**,  
+by: Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Enrico Masala,  
+in *Proc. of 14th International Conference on Quality of Multimedia Experience (QoMEX)*,  
+2022, Lippstadt, Germany, Sep 2022. Download [Preprint](https://iris.polito.it/handle/11583/2971779)
+
+* **Mimicking Individual Media Quality Perception with Neural Network Based Artificial Observers**,  
 by: Lohic Fotio Tiotsop, Tomas Mizdos, Marcus Barkowsky, Peter Pocta, Antonio Servetti, Enrico Masala,  
 in *ACM Transactions on Multimedia Computing, Communications and Applications*,  
 Jan 2022, vol. 18, pp. 12:1-12:25, DOI: [10.1145/3464393](http://dx.doi.org/10.1145/3464393) Download [Preprint](https://iris.polito.it/handle/11583/2909256)
