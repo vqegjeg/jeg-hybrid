@@ -23,4 +23,8 @@ Past meeting dates:
 * Aug 8, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Aug 22, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Sep 5, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Sep 19, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Oct 3, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Oct 17, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Oct 31, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 
