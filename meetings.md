@@ -11,9 +11,6 @@ Conference calls are held online every 2 weeks. Duration about 1 hour, occasiona
 
 Meeting dates:
 
-* Nov 14, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Nov 28, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Dec 12, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Jan 9, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Jan 23, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Feb 6, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)

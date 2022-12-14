@@ -27,4 +27,7 @@ Past meeting dates:
 * Oct 3, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Oct 17, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 * Oct 31, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Nov 14, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Nov 28, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* (Dec 12, 2022, 4 PM CET/CEST) [ skipped due to VQEG virtual face-to-face meeting ]
 
