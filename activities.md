@@ -23,4 +23,6 @@ Current activities include but are not limited to:
 
 * Using large scale (not subjectively annotated) datasets to identify shortcomings of common Video Quality Metrics (VQMs) in various conditions, e.g., different coding parameters, lossy channels.
 
+* Moving some of the activities of the [VQEG IGVQM](https://www.vqeg.org/projects/implementer-s-guide-to-video-quality-metrics-igvqm/){:target=_blank} group into JEG-Hybrid, creating as much sinergies as possible.
+
 More information is available in the [publications page]({{site.baseurl}}/publications).
