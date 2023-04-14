@@ -9,14 +9,17 @@ permalink: /meetings
 
 Conference calls are held online every 2 weeks. Duration about 1 hour, occasionally 1.5 hours.  An agenda is proposed on the reflector some time before the meeting and agreed upon as soon as the meeting starts.
 
-Meeting dates:
+Next meeting dates:
 
-* Feb 6, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Feb 20, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Mar 6, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Mar 20, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Apr 17, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* May 15, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* May 29, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Jun 12, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Jun 26, 2023, 4 PM CET/CEST [ TBC - VQEG face-to-face meeting at the same time ] (Contact co-chairs for the zoom link)
+* Jul 10, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Jul 27, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 
-([past meeting dates]({{site.baseurl}}/past_meetings))
+Past meeting dates [here]({{site.baseurl}}/past_meetings) (with important decisions)
 
 Schedule is adapted once in a while to facilitate participation by most of the attendees. Polls and modifications are sent to the reflector well ahead of time. Do not forget to join the reflector: [jeg@lyris.vqeg.org](mailto:jeg@lyris.vqeg.org)
 

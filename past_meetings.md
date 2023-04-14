@@ -9,27 +9,32 @@ permalink: /past_meetings
 
 # NB: This is the list of PAST meeting dates. Current ones [here]({{site.baseurl}}/meetings)
 
-Past meeting dates:
+Past meeting dates (with important decisions taken in there):
 
-* March 7, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* March 21, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* April 4, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* May 2, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* May 16, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* May 30, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* March 7, 2022, 4 PM CET/CEST
+* March 21, 2022, 4 PM CET/CEST
+* April 4, 2022, 4 PM CET/CEST
+* May 2, 2022, 4 PM CET/CEST
+* May 16, 2022, 4 PM CET/CEST
+* May 30, 2022, 4 PM CET/CEST
 * ...
-* Jul 11, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Jul 25, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Aug 8, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Aug 22, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Sep 5, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Sep 19, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Oct 3, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Oct 17, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Oct 31, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Nov 14, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Nov 28, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Jul 11, 2022, 4 PM CET/CEST
+* Jul 25, 2022, 4 PM CET/CEST
+* Aug 8, 2022, 4 PM CET/CEST
+* Aug 22, 2022, 4 PM CET/CEST
+* Sep 5, 2022, 4 PM CET/CEST
+* Sep 19, 2022, 4 PM CET/CEST
+* Oct 3, 2022, 4 PM CET/CEST
+* Oct 17, 2022, 4 PM CET/CEST
+* Oct 31, 2022, 4 PM CET/CEST
+* Nov 14, 2022, 4 PM CET/CEST
+* Nov 28, 2022, 4 PM CET/CEST
 * (Dec 12, 2022, 4 PM CET/CEST) [ skipped due to VQEG virtual face-to-face meeting ]
-* Jan 9, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link) - Agreed to move some of the activities of the [VQEG IGVQM](https://www.vqeg.org/projects/implementer-s-guide-to-video-quality-metrics-igvqm/){:target=_blank} group into JEG-Hybrid
-* Jan 23, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Jan 9, 2023, 4 PM CET/CEST - Agreed to move some of the activities of the [VQEG IGVQM](https://www.vqeg.org/projects/implementer-s-guide-to-video-quality-metrics-igvqm/) group into JEG-Hybrid
+* Jan 23, 2023, 4 PM CET/CEST
+* Feb 6, 2023, 4 PM CET/CEST
+* Feb 20, 2023, 4 PM CET/CEST
+* Mar 6, 2023, 4 PM CET/CEST
+* Mar 20, 2023, 4 PM CET/CEST
+* Apr 3, 2023, 4 PM CET/CEST
 
