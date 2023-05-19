@@ -37,4 +37,6 @@ Past meeting dates (with important decisions taken in there):
 * Mar 6, 2023, 4 PM CET/CEST
 * Mar 20, 2023, 4 PM CET/CEST
 * Apr 3, 2023, 4 PM CET/CEST
+* Apr 17, 2023, 4 PM CET/CEST
+* May 15, 2023, 4 PM CET/CEST
 

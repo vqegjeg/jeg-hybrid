@@ -12,6 +12,11 @@ permalink: /publications
 
 List of scientific publications originating from activities conducted directly or in collaboration with this group:
 
+* **A Scoring Model Considering the Variability of Subjects' Characteristics in Subjective Experiments**,  
+by Lohic Fotio Tiotsop, Antonio Servetti, Enrico Masala,  
+in *Proc. 15th International Conference on Quality of Multimedia Experience (QoMEX)*,  
+Jun 2013, pp. 1-6, Ghent, Belgium. DOI: TBA  
+
 * **Predicting individual quality ratings of compressed images through deep CNNs-based artificial observers**,  
 by: Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Peter Pocta, Tomas Mizdos, Glenn Van Wallendael, Enrico Masala,  
 in *Signal Processing: Image Communication*,  
@@ -20,7 +25,7 @@ Mar 2023, vol. 112, pp. 1-15, DOI: [10.1016/j.image.2022.116917](https://doi.org
 * **Regularized Maximum Likelihood Estimation of the Subjective Quality from Noisy Individual Ratings**,  
 by: Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Enrico Masala,  
 in *Proc. of 14th International Conference on Quality of Multimedia Experience (QoMEX)*,  
-2022, Lippstadt, Germany, Sep 2022. Download [Preprint](https://iris.polito.it/handle/11583/2971779)
+Sep 2022, Lippstadt, Germany. Download [Preprint](https://iris.polito.it/handle/11583/2971779)
 
 * **Mimicking Individual Media Quality Perception with Neural Network Based Artificial Observers**,  
 by: Lohic Fotio Tiotsop, Tomas Mizdos, Marcus Barkowsky, Peter Pocta, Antonio Servetti, Enrico Masala,  
