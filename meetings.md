@@ -11,11 +11,9 @@ Conference calls are held online every 2 weeks. Duration about 1 hour, occasiona
 
 Next meeting dates:
 
-* May 29, 2023: no meeting (Holiday in most of Europe)
-* Jun 12, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Jun 26, 2023, 4 PM CET/CEST [ TBC - VQEG face-to-face meeting at the same time ] (Contact co-chairs for the zoom link)
-* Jul 10, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Jul 27, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Jul 24, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* August: no meetings
+* Sep 4, 2023, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 
 Past meeting dates [here]({{site.baseurl}}/past_meetings) (with important decisions)
 

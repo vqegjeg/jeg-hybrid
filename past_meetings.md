@@ -39,4 +39,8 @@ Past meeting dates (with important decisions taken in there):
 * Apr 3, 2023, 4 PM CET/CEST
 * Apr 17, 2023, 4 PM CET/CEST
 * May 15, 2023, 4 PM CET/CEST
+* May 29, 2023: no meeting (Holiday in most of Europe)
+* Jun 12, 2023, 4 PM CET/CEST
+* Jun 26, 2023, no meeting (VQEG face-to-face meeting)
+* Jul 10, 2023, 4 PM CET/CEST
 
