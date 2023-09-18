@@ -44,4 +44,6 @@ Past meeting dates (with important decisions taken in there):
 * Jun 26, 2023, no meeting (VQEG face-to-face meeting)
 * Jul 10, 2023, 4 PM CET/CEST
 * Jul 24, 2023, 4 PM CET/CEST
+* August 2023: no meetings
+* Sep 4, 2023, 4 PM CET/CEST : *NO meeting* (vacation)
 

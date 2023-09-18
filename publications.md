@@ -18,9 +18,9 @@ in *Proc. 15th International Conference on Quality of Multimedia Experience (QoM
 Jun 2013, pp. 1-6, Ghent, Belgium. DOI: [10.1109/QoMEX58391.2023.10178476](https://doi.org/10.1109/QoMEX58391.2023.10178476) Download [Preprint](https://iris.polito.it/handle/11583/2980446)
 
 * **Training the DNN of a Single Observer by Conducting Individualized Subjective Experiments**,  
-by Pavel Majerl, Lohic Fotio Tiotsop, Marcus Barkowsky,  
+by Pavel Majer, Lohic Fotio Tiotsop, Marcus Barkowsky,  
 in *Proc. 15th International Conference on Quality of Multimedia Experience (QoMEX)*,  
-Jun 2013, pp. 1-6, Ghent, Belgium. DOI: [10.1109/QoMEX58391.2023.10178608](https://doi.org/10.1109/QoMEX58391.2023.10178608) Download ND
+Jun 2013, pp. 1-6, Ghent, Belgium. DOI: [10.1109/QoMEX58391.2023.10178608](https://doi.org/10.1109/QoMEX58391.2023.10178608) Download [Preprint](https://iris.polito.it/handle/11583/)
 
 * **Predicting individual quality ratings of compressed images through deep CNNs-based artificial observers**,  
 by: Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Peter Pocta, Tomas Mizdos, Glenn Van Wallendael, Enrico Masala,  
