@@ -9,7 +9,7 @@ permalink: /igvqm
 
 In a recent face-to-face VQEG meeting (Dec 2022, online) it was agreed to move the activities of the [VQEG](https://vqeg.org) IGVQM (Implementer's Guide to Video Quality Metrics) group into JEG-Hybrid.
 
-Originally, IGVQM had a quite broad scope as detailed in the original [working doc](https://docs.google.com/document/d/1w3rgGxDHFehwdwtVXENtngAPsMhGnPlAsiU2v0Tu6nU/edit?usp=sharing)), for instance:
+Originally, IGVQM had a quite broad scope as detailed in the original [working doc](https://docs.google.com/document/d/1w3rgGxDHFehwdwtVXENtngAPsMhGnPlAsiU2v0Tu6nU/edit?usp=sharing), for instance:
 
 * Priority to full-reference (pixel) metrics, but also applicability to no-reference metrics
     * Use at least all metrics in VMAF library, focus on open-source solutions
