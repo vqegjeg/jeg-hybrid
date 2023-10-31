@@ -15,12 +15,12 @@ List of scientific publications originating from activities conducted directly o
 * **A Scoring Model Considering the Variability of Subjects' Characteristics in Subjective Experiments**,  
 by Lohic Fotio Tiotsop, Antonio Servetti, Enrico Masala,  
 in *Proc. 15th International Conference on Quality of Multimedia Experience (QoMEX)*,  
-Jun 2013, pp. 1-6, Ghent, Belgium. DOI: [10.1109/QoMEX58391.2023.10178476](https://doi.org/10.1109/QoMEX58391.2023.10178476) Download [Preprint](https://iris.polito.it/handle/11583/2980446)
+Jun 2023, pp. 1-6, Ghent, Belgium. DOI: [10.1109/QoMEX58391.2023.10178476](https://doi.org/10.1109/QoMEX58391.2023.10178476) Download [Preprint](https://iris.polito.it/handle/11583/2980446)
 
 * **Training the DNN of a Single Observer by Conducting Individualized Subjective Experiments**,  
 by Pavel Majer, Lohic Fotio Tiotsop, Marcus Barkowsky,  
 in *Proc. 15th International Conference on Quality of Multimedia Experience (QoMEX)*,  
-Jun 2013, pp. 1-6, Ghent, Belgium. DOI: [10.1109/QoMEX58391.2023.10178608](https://doi.org/10.1109/QoMEX58391.2023.10178608) Download [Preprint](https://iris.polito.it/handle/11583/2981763)
+Jun 2023, pp. 1-6, Ghent, Belgium. DOI: [10.1109/QoMEX58391.2023.10178608](https://doi.org/10.1109/QoMEX58391.2023.10178608) Download [Preprint](https://iris.polito.it/handle/11583/2981763)
 
 * **Predicting individual quality ratings of compressed images through deep CNNs-based artificial observers**,  
 by: Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Peter Pocta, Tomas Mizdos, Glenn Van Wallendael, Enrico Masala,  
