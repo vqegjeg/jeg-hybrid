@@ -15,6 +15,8 @@ Here is a non-exhaustive list of resources used by the group, made available to 
 * [Precomputed VQMs for the ITS4S dataset](https://media.polito.it/its4s/)
   (accompanying the paper ["Full Reference Video Quality Measures Improvement using Neural Networks"](http://dx.doi.org/10.1109/ICASSP40776.2020.9053739) [(alt link)](http://hdl.handle.net/11583/2840345) published in IEEE ICASSP 2020)
 
+* [Dataset/AI Observers developed with the human-in-the-loop approach](https://media.polito.it/AIOs-from-human-in-the-loop-training-process)
+  (accompanying the paper ["Training the DNN of a Single Observer by Conducting Individualized Subjective Experiments"](https://doi.org/10.1109/QoMEX58391.2023.10178608) [(alt link)](https://iris.polito.it/handle/11583/2981763) published in QoMEX 2023)
 
 ## Software
 
