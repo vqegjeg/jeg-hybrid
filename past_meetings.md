@@ -48,4 +48,7 @@ Past meeting dates (with important decisions taken in there):
 * Sep 4, 2023, 4 PM CET/CEST : *NO meeting* (vacation)
 * Sep 18, 2023, 4 PM CET/CEST
 * Oct 2, 2023, 4 PM CET/CEST
+* Oct 16, 2023, 4 PM CET/CEST
+* Oct 30, 2023, 4 PM CET/CEST
+* Nov 11, 2023, 4 PM CET/CEST
 

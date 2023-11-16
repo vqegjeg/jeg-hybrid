@@ -9,20 +9,25 @@ permalink: /activities
 
 Current activities include but are not limited to:
 
-* Modeling single observers: to mimic the behavior of single observers in subjective experiments, to investigate/understand their characteristics, and potentially to run "virtual" subjective experiments.
+* **Modeling single observers**: to mimic the behavior of single observers in subjective experiments, to investigate/understand their characteristics, and potentially to run "virtual" subjective experiments:
 
-* Modeling VQM disagreement: to achieve better design of subjective experiments, to give hints about which video sequences are most likely to make VQM predictions fail.
+  * the first goal is to predict individual quality perception with an **iterative human-in-the-loop** approach; 
 
-* Training machine learning models with a low amount of subjectively annotated data, and/or with (less reliably) automatically annotated data, and using them to improve existing VQMs.
+  * the second goal is to **exploit individual differences** in the perception of image quality using deep neural network.
 
-* Improving subjective testing and experiments by finding the most interesting sources (SRCs) and/or processed video sequences (PVSs) to work with.
 
-* Overcoming the MOS limitations by considering subjective score ranges and distributions.
+* **Modeling VQM disagreement**: to achieve better design of subjective experiments, to give hints about which video sequences are most likely to make VQM predictions fail.
 
-* Developing methods, approaches, frameworks, and tools to promote reproducible research in the context of Video Quality Assessment (VQA).
+* **Training** machine learning models with a **low amount of subjectively annotated data**, and/or with (less reliably) automatically annotated data, and using them to improve existing VQMs.
 
-* Using large scale (not subjectively annotated) datasets to identify shortcomings of common Video Quality Metrics (VQMs) in various conditions, e.g., different coding parameters, lossy channels.
+* Improving subjective testing and experiments by **finding the most interesting sources** (SRCs) and/or processed video sequences (PVSs) to work with.
 
-* Moving some of the activities of [VQEG IGVQM]({{site.baseurl}}/igvqm) into JEG-Hybrid, creating as much sinergies as possible.
+* Overcoming the MOS limitations by **considering subjective score ranges and distributions**.
+
+* Developing methods, approaches, frameworks, and tools to promote **reproducible research** in the context of Video Quality Assessment (VQA).
+
+* Using **large scale** (not subjectively annotated) **datasets** to identify shortcomings of common Video Quality Metrics (VQMs) in various conditions, e.g., different coding parameters, lossy channels.
+
+* Moving some of the **activities of [VQEG IGVQM]({{site.baseurl}}/igvqm)** into JEG-Hybrid, creating as much sinergies as possible.
 
 More information is available in the [publications page]({{site.baseurl}}/publications).
