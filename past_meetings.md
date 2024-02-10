@@ -11,6 +11,9 @@ permalink: /past_meetings
 
 Past meeting dates (with important decisions taken in there):
 
+* Feb 5, 2024, 4 PM CET/CEST
+* Jan 22, 2024, 4 PM CET/CEST
+* Jan 8, 2024, 4 PM CET/CEST
 * Dec 11, 2023, 4 PM CET/CEST
 * Nov 27, 2023, 4 PM CET/CEST : Sent email to main VQEG reflector to invite collaboration to [IGVQM]({{site.baseurl}}/igvqm)
 * Nov 13, 2023, 4 PM CET/CEST
