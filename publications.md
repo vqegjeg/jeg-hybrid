@@ -12,6 +12,12 @@ permalink: /publications
 
 List of scientific publications originating from activities conducted directly or in collaboration with this group:
 
+
+* **Modeling Subject Scoring Behaviors in Subjective Experiments Based on a Discrete Quality Scale**,  
+by L. Fotio Tiotsop, A. Servetti, M. Barkowsky, E. Masala,
+in *IEEE Transactions on Multimedia*,  
+2024, accepted for publication, DOI: [10.1109/TMM.2024.3382483](https://doi.org/10.1109/TMM.2024.3382483) Download [open access](https://doi.org/10.1109/TMM.2024.3382483)
+
 * **A Scoring Model Considering the Variability of Subjects' Characteristics in Subjective Experiments**,  
 by Lohic Fotio Tiotsop, Antonio Servetti, Enrico Masala,  
 in *Proc. 15th International Conference on Quality of Multimedia Experience (QoMEX)*,  
