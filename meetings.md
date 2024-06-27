@@ -11,9 +11,8 @@ Conference calls are held online every 2 weeks. Duration about 1 hour, occasiona
 
 Next meeting dates:
 
-* NO meeting on Apr 1, 2024, 4 PM CET/CEST (Easter holiday)
-* Apr 15, 2024, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Apr 29, 2024, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Jul 8, 2024, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Jul 22, 2024, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 
 Past meeting dates [here]({{site.baseurl}}/past_meetings) (with important decisions)
 
