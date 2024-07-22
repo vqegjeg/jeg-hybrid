@@ -11,6 +11,8 @@ permalink: /past_meetings
 
 Past meeting dates (with important decisions taken in there):
 
+* Jul 22, 2024, 4 PM CET/CEST
+* Jul 8, 2024, 4 PM CET/CEST
 * Jun 24, 2024, 4 PM CET/CEST
 * Jun 10, 2024, 4 PM CET/CEST
 * May 27, 2024, 4 PM CET/CEST
