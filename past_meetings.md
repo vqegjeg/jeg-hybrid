@@ -11,6 +11,14 @@ permalink: /past_meetings
 
 Past meeting dates (with important decisions taken in there):
 
+* Nov 25, 2024, 4 PM CET/CEST : report about VQEG F2F meeting
+* Nov 11, 2024, 4 PM CET/CEST
+* Oct 28, 2024, 4 PM CET/CEST
+* Oct 14, 2024, 4 PM CET/CEST
+* Sep 30, 2024, 4 PM CET/CEST
+* Sep 16, 2024, 4 PM CET/CEST
+* Sep 2, 2024, 4 PM CET/CEST : *NO meeting* (vacation)
+* August 2024: *NO meetings* (vacation)
 * Jul 22, 2024, 4 PM CET/CEST
 * Jul 8, 2024, 4 PM CET/CEST
 * Jun 24, 2024, 4 PM CET/CEST
