@@ -11,8 +11,8 @@ Conference calls are held online every 2 weeks. Duration about 1 hour, occasiona
 
 Next meeting dates:
 
-* December 2024 and January 2025: *NO meetings* (unavailability, and vacation time)
-* Feb 3, 2025, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Feb 17, 2025, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Mar 3, 2025, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 
 Past meeting dates [here]({{site.baseurl}}/past_meetings) (with important decisions)
 
