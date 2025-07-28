@@ -11,6 +11,18 @@ permalink: /past_meetings
 
 Past meeting dates (with important decisions taken in there):
 
+* Jul 21, 2025, 4 PM CET/CEST
+* Jul 7, 2025, 4 PM CET/CEST
+* Jun 23, 2025, 4 PM CET/CEST
+* Jun 9, 2025, 4 PM CET/CEST
+* May 26, 2025, 4 PM CET/CEST : skipped (no one available)
+* May 12, 2025, 4 PM CET/CEST
+* Apr 28, 2025, 4 PM CET/CEST
+* Apr 14, 2025, 4 PM CET/CEST
+* Mar 31, 2025, 4 PM CET/CEST
+* Mar 17, 2025, 4 PM CET/CEST
+* Mar 3, 2025, 4 PM CET/CEST
+* Feb 17, 2025, 4 PM CET/CEST
 * Feb 3, 2025, 4 PM CET/CEST
 * December 2024 and January 2025: *NO meetings* (unavailability, and vacation time)
 * Nov 25, 2024, 4 PM CET/CEST : report about VQEG F2F meeting
