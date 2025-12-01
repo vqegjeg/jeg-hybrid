@@ -24,6 +24,10 @@ Originally, IGVQM had a quite broad scope as detailed in the original [working d
 * Try to create synergies between the current JEG-Hybrid activities and the IGVQM ones
 * Include the existing JEG-Hybrid experimentations on AI observers while carrying out some of the activities envisaged by IGVMQ, e.g., objective metrics computation and analysis
 
+**Draft software** presented at May 2025 meeting:
+[https://github.com/emasala/IGVQM_analysis](https://github.com/emasala/IGVQM_analysis)  
+with [presentation](https://vqeg.org/umbraco/surface/FolderList/GetFile?directory=2025_05_Meta_USA&filename=VQEG_JEG-Hybrid_2025_102_IGVQM_final.pdf&pageId=1669&m=0) of some results obtained by means of the software.
+
 Old IGVQM page on VQEG website: [IGVQM](https://www.vqeg.org/projects/implementer-s-guide-to-video-quality-metrics-igvqm/)   
 Also, it should be noted that IGVQM received in the past a pointer to ITU-T Technical paper HSTP-VID-WPOM titled "[Working practices using objective metrics for evaluation of video coding efficiency experiments](https://www.itu.int/pub/T-TUT-ASC-2020-HSTP1)" (persistent [link](http://handle.itu.int/11.1002/pub/8160e8da-en)), to be taken into account in the activities
 
