@@ -11,6 +11,12 @@ permalink: /past_meetings
 
 Past meeting dates (with important decisions taken in there):
 
+* Nov 10, 2025, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Oct 27, 2025, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Oct 13, 2025, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Sep 29, 2025, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Sep 15, 2025, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* August 2025 (and Sep 1, 2025): *NO meetings* (unavailability, and vacation time)
 * Jul 21, 2025, 4 PM CET/CEST
 * Jul 7, 2025, 4 PM CET/CEST
 * Jun 23, 2025, 4 PM CET/CEST
