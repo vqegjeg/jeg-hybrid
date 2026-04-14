@@ -11,6 +11,12 @@ permalink: /past_meetings
 
 Past meeting dates (with important decisions taken in there):
 
+* Apr 14, 2026, 4 PM CET/CEST
+* Mar 31, 2026, 4 PM CET/CEST
+* Mar 16, 2026, 4 PM CET/CEST
+* Mar 2, 2026, 4 PM CET/CEST
+* Feb 16, 2026, 4 PM CET/CEST
+* Feb 2, 2026, 4 PM CET/CEST
 * Jan 19, 2026, 4 PM CET/CEST
 * Dec 22, 2025, 4 PM CET/CEST - skipped - holiday
 * Dec 8, 2025, 4 PM CET/CEST - skipped - holiday in Italy

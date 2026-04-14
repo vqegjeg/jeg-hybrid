@@ -11,10 +11,10 @@ Conference calls are held online every 2 weeks. Duration about 1 hour, occasiona
 
 Next meeting dates:
 
-* Feb 2, 2026, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Feb 16, 2026, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Mar 2, 2026, 4 PM CET/CEST (Contact co-chairs for the zoom link)
-* Mar 16, 2026, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Apr 14, 2026, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* Apr 27, 2026, **4:15PM** CET/CEST (back to Monday again but **a quarter of an hour later**)
+* May 11, 2026, **4:15PM** CET/CEST (Contact co-chairs for the zoom link)
+- ... and continuing with a biweekly schedule
 
 Past meeting dates [here]({{site.baseurl}}/past_meetings) (with important decisions)
 
