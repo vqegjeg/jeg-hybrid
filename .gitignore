@@ -4,3 +4,5 @@ _site
 
 .DS_Store
 old_jeg-hybrid/
+
+.md5*

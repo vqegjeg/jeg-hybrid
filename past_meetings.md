@@ -11,6 +11,13 @@ permalink: /past_meetings
 
 Past meeting dates (with important decisions taken in there):
 
+* Jul 20, 2026, 4:15PM CET/CEST
+* Jul 6, 2026, 4:15PM CET/CEST
+* Jun 22, 2026, 4:15PM CET/CEST
+* Jun 8, 2026, 4:15PM CET/CEST
+* May 25, 2026, 4:15PM CET/CEST
+* May 11, 2026, 4:15PM CET/CEST
+* Apr 27, 2026, **4:15PM** CET/CEST (back to Monday again but **a quarter of an hour later**)
 * Apr 14, 2026, 4 PM CET/CEST
 * Mar 31, 2026, 4 PM CET/CEST
 * Mar 16, 2026, 4 PM CET/CEST
